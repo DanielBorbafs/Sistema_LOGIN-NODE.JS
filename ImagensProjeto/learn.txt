@@ -1,0 +1,2 @@
+Projeto simples, porém com design agradável. Baseado em um vídeo do youtube, mas o principal rumo do projeto mesmo era treinar express, esse foi o primeiro. 
+pretendo fazer mais uns 10. Somente com NODE.js para treinar!
